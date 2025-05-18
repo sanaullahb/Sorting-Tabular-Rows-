@@ -1,0 +1,30 @@
+# misc
+*.swp
+bin/
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+
+# Compiled Dynamic libraries
+*.so
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+
+input
+
+# latex
+*.aux
+*.aux
+*.log
+*.out
+*.pdf
+*.toc
+*.fdb_latexmk
+*.bbl
+*.blg
+*.fls
